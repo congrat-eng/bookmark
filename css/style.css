@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+   margin: 25px; 
+}
+li a{
+padding: 10px;
+} 
+.navbar{
+    display: flex;
+    list-style-type:none;
+    position: absolute;
+    left: 350px;
+    bottom:25px;
+}
+.image2{
+  position: absolute;
+  left: 750px;
+  bottom: 250px;
+ 
+}
+.heading1{
+    margin-top: 100px;
+}
+.box1{
+    margin: 100px;
+}
+.box2{
+    background-color: blueviolet;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 950px;
+    bottom: 250px;
+    border-radius: 10px 0px 0px 10px;
+
+}
+.button1{
+  height: 40px;
+}
+  .button2{
+ height: 40px;
+  }
+
+
+
+
+
+
+
